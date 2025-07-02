@@ -37,17 +37,6 @@
 
 ---
 
-## 📌 Projeto em Destaque
-
-### Sistema de Gestão de Academia
-> Solução completa para academias de pequeno porte.
-
-- 🔧 Tecnologias: HTML, CSS, JavaScript, MySQL
-- 👨‍💻 Interface amigável para cadastro, controle de treinos e gestão financeira
-- 💡 Funcionalidades em tempo real para controle de treinos e pagamentos
-- 🚧 Superação de desafios com controle de fluxo de pessoas e veículos
-
----
 
 ## 📫 Contato
 
